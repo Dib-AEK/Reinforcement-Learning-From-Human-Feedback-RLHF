@@ -3,13 +3,10 @@ Use Reinforcement Learning From Human Feedback for fine tuning an LLM model. Bas
 
 https://www.coursera.org/projects/reinforcement-learning-from-human-feedback-project
 
+# Main
+TuneLLM.ipynb
 
-
-
-
-Here is the updated README with the added information:
-
-**RLHF Fine-Tuning Loop for LLMs**
+# RLHF Fine-Tuning Loop for LLMs
 
 Our Large Language Model (LLM) is fine-tuned using a Reinforcement Learning from Human Feedback (RLHF) loop. The loop consists of the following steps:
 
